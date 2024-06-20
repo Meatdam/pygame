@@ -13,5 +13,6 @@ python 3.11
 git clone git@github.com:Meatdam/pygame.git
 ```
 Все настройки должны работать из коробки т.к. 
+
 Автор проекта:
 [Кузькин Илья](https://github.com/Meatdam)
